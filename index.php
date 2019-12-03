@@ -1,0 +1,105 @@
+
+
+	
+
+	
+    <?php include("top-header.php");?>
+
+	<!-- /header -->	
+	
+	<main>
+		<section class="hero_single">
+			<div class="wrapper">
+				<div class="container">
+					<h3><strong>Welcome To</strong><br>BraVo Technology & Investment Co.Ltd</h3>
+					<p>Where Creativity & Trust...Redefined!</p>
+				</div>
+				<a href="#first_section" class="btn_explore hidden_tablet"><i class="ti-arrow-down"></i></a>
+			</div>
+		</section>
+		<!-- /hero_single -->
+
+		<div class="features clearfix" id="first_section">
+			<div class="container">
+				<div class="main_title_2 mb-5 pb-3">
+				<span><em></em></span>
+				<h2>our services</h2>
+				<p>below are some of the services that you can enjoy from us.</p>
+			</div>
+				
+				<ul class="text-capitalize d-flex flex-wrap justify-content-center my-5">
+					<li class="mb-4"><i class="pe-7s-display1"></i>
+						<h4>Computer maintanace</h4><span>repair and maintanance of computers</span>
+					</li>
+					<li class="mb-4"><i class="pe-7s-global"></i>
+						<h4>web design & development</h4><span>lets help you develope and design your website</span>
+					</li>
+					<li class="mb-4"><i class="pe-7s-plane"></i>
+						<h4>bravo travels</h4><span>we will help you get to your dream destination</span>
+					</li>
+					<li class="mb-3"><i class="pe-7s-network"></i>
+						<h4>Focus on target</h4><span>get your connections right through us</span>
+					</li>
+					<li class="mb-3"><i class="pe-7s-diamond"></i>
+						<h4>graphic design</h4><span>our designs, are even closer to perfection</span>
+					</li>
+					<li class="mb-3"><i class="pe-7s-rocket"></i>
+						<h4>general supplies</h4><span>lets get staff delivered to you rocket fast</span>
+					</li>
+					<li class="mt-3"><i class="pe-7s-tools"></i>
+						<h4>software development</h4><span>inhouse software development just for you </span>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<!-- /features -->
+
+		
+		<!-- /container -->
+
+		<div class="bg_color_1">
+			<div class="container margin_120_95">
+				<div class="main_title_2">
+					<span><em></em></span>
+					<h2>Our Origins and Story</h2>
+					<p class="text-capitalize">about us</p>
+				</div>
+				<div class="row justify-content-between">
+					<div class="col-lg-6 wow" data-wow-offset="150">
+						<figure class="block-reveal">
+							<div class="block-horizzontal"></div>
+							<img src="assets/about-images/aboutimg.jpg" class="img-fluid" alt="">
+						</figure>
+					</div>
+					<div class="col-lg-5">
+						<p>ICT plays an integral role in every aspects of our lives, and especially at the industry levels; helping companies, institution/organizations, governments and private businesses improve their performances to achieve cost efficiency that drive growth and maintain a high competitive advantage in the working environment.</p>
+						<p>BraVo is a national technology based and investment wise company in the heart of the nation’s capital JUBA – Republic of South Sudan ...
+						<p class="btn_home_align mt-3"><a href="blog.html" class="btn_1 rounded">Read More</a></p>
+					</div>
+				</div>
+				<!--/row-->
+			</div>
+			<!--/container-->
+		</div>
+		<!-- /container -->
+
+		<div class="call_section">
+			<div class="container clearfix">
+				<div class="col-lg-5 col-md-6 float-right wow" data-wow-offset="250">
+					<div class="block-reveal">
+						<div class="block-vertical"></div>
+						<div class="box_1">
+							<h3>Enjoy our great services</h3>
+							<p>An Awesome BraVo team is ready for Business, Agency, Landing or Creative Portfolio BraVo helps you grow your business</p>
+							<a href="#0" class="btn_1 rounded">Read more</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--/call_section-->
+	</main>
+	<!-- main     -->
+    <?php include("footer.php");?>
+
+    <!-- End Footer Section -->
