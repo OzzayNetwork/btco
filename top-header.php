@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Udema a modern educational site template">
     <meta name="author" content="Ansonika">
-    <title>UDEMA | Modern Educational site template - SHARED ON THEMELOCK.COM</title>
+    <title>Bravo | Creativity & Trust...Redefined!</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/apple-touch-icon-57x57-precomposed.png" type="image/x-icon">
@@ -56,10 +56,10 @@
 				</li>
 				<li><span><a href="#0">Services</a></span>
 					<ul>
-						<li><a href="#0">Bravo Tech</a></li>
-						<li><a href="#0">Bravo Designs</a></li>
-						<li><a href="#0">Bravo Travels</a></li>
-						<li><a href="#0">Generall Supply</a></li>
+						<li><a href="coming-soon.php">Bravo Tech</a></li>
+						<li><a href="coming-soon.php">Bravo Designs</a></li>
+						<li><a href="coming-soon.php">Bravo Travels</a></li>
+						<li><a href="coming-soon.php">Generall Supply</a></li>
 					</ul>
 				</li>
 				<li><span><a href="portfolio.php">portfolio</a></span>

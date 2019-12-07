@@ -14,7 +14,7 @@
 					<h3><strong>Welcome To</strong><br>BraVo Technology & Investment Co.Ltd</h3>
 					<p>Where Creativity & Trust...Redefined!</p>
 				</div>
-				<a href="#first_section" class="btn_explore hidden_tablet"><i class="ti-arrow-down"></i></a>
+				<a href="#first_section" class="btn_explore hidden_tablet d-flex justify-content-center align-items-center"><i class="ti-arrow-down"></i></a>
 			</div>
 		</section>
 		<!-- /hero_single -->
@@ -68,7 +68,7 @@
 					<div class="col-lg-6 wow" data-wow-offset="150">
 						<figure class="block-reveal">
 							<div class="block-horizzontal"></div>
-							<img src="assets/about-images/aboutimg.jpg" class="img-fluid" alt="">
+							<img src="img/about-images/aboutimg.jpg" class="img-fluid" alt="">
 						</figure>
 					</div>
 					<div class="col-lg-5">

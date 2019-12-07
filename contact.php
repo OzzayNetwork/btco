@@ -111,5 +111,10 @@
 	</main>
 <!-- main     -->
 <?php include("footer.php");?>
+<!-- mapping SCRIPTS -->
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js"></script>
+<script type="text/javascript" src="asset/js/mapmarker.jquery.js"></script>
+<script type="text/javascript" src="asset/js/mapmarker_func.jquery.js"></script>
 
 <!-- End Footer Section -->

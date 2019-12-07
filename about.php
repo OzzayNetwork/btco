@@ -66,7 +66,7 @@
 					<div class="col-lg-6 wow" data-wow-offset="150">
 						<figure class="block-reveal">
 							<div class="block-horizzontal"></div>
-							<img src="assets/about-images/aboutimg.jpg" class="img-fluid" alt="">
+							<img src="img/about-images/aboutimg.jpg" class="img-fluid" alt="">
 						</figure>
 					</div>
 					<div class="col-lg-5">
