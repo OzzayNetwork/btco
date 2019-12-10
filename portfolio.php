@@ -15,16 +15,16 @@
 			<div class="main_title_2">
 				<span><em></em></span>
 				<h2>Here some pictures ...</h2>
-				<p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+				<p>Here are some pictures that will let you know more about us</p>
 			</div>
 			<div class="grid">
 				<ul class="magnific-gallery">
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_4.jpg" alt="">
+							<img src="img/gallery/buildings.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_4.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/buildings.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -34,10 +34,10 @@
 					</li>
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_5.jpg" alt="">
+							<img src="img/gallery/computer.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_5.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/computer.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -48,10 +48,10 @@
 					</li>
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_6.jpg" alt="">
+							<img src="img/gallery/computer2.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_6.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/computer2.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -61,10 +61,10 @@
 					</li>
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_7.jpg" alt="">
+							<img src="img/gallery/do-more.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_7.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/do-more.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -74,10 +74,10 @@
 					</li>
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_8.jpg" alt="">
+							<img src="img/gallery/flatten.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_8.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/flatten.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -87,10 +87,10 @@
 					</li>
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_9.jpg" alt="">
+							<img src="img/gallery/happy.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_9.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/happy.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -100,10 +100,10 @@
 					</li>
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_10.jpg" alt="">
+							<img src="img/gallery/lego.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_10.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/lego.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -113,10 +113,10 @@
 					</li>
 					<li>
 						<figure>
-							<img src="http://via.placeholder.com/400x300/ccc/fff/pic_11.jpg" alt="">
+							<img src="img/gallery/passion.jpg" alt="">
 							<figcaption>
 								<div class="caption-content">
-									<a href="http://via.placeholder.com/800x533/ccc/fff/pic_1.jpg" title="Photo title" data-effect="mfp-zoom-in">
+									<a href="img/gallery/passion.jpg" title="Photo title" data-effect="mfp-zoom-in">
 										<i class="pe-7s-albums"></i>
 										<p>Your caption</p>
 									</a>
@@ -130,12 +130,12 @@
 		</div>
 		<!-- /container -->
 		
-		<div class="bg_color_1">
+		<div class="bg_color_1 d-none">
 			<div class="container margin_60_35">
 				<div class="main_title_2">
 					<span><em></em></span>
 					<h2>Here some videos ...</h2>
-					<p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+					<p>Here are some videos fromus</p>
 				</div>
 				<div class="grid">
 					<ul class="magnific-gallery">
