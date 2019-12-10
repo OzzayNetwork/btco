@@ -33,8 +33,8 @@
 			<div class="row countdown d-flex justify-content-center">
             	<div class="col-md-12">
                 	<div id="logo"><img src="img/logo.png" width="149" height="42" alt="" data-retina="true"></div>
-                    <h1>We will be Back soon!</h1>
-                    <h2>Meanwhile, you can make leave your email. We will advice when we will be online!</h2>
+                    <h1>Pending Updates</h1>
+                    <h2>An Update will be uploaded soon!</h2>
                 </div>
 				<div id="countdown_wp">
                     <div class="container_count"><div id="days">00</div>days</div>
