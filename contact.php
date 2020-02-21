@@ -42,8 +42,7 @@
 					<div class="col-lg-5">
 <!--						<div class="map_contact">-->
 						<div class="">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.5858429655186!2d31.58832221476288!3d4.840948996484763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x171281af7107a163%3A0x12accfdc96d4d1e3!2sUniversity%20Of%20Juba!5e0!3m2!1sen!2ske!4v1575999187312!5m2!1sen!2ske" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-						</div>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.533905926379!2d31.594685314762895!3d4.84977899647842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNMKwNTAnNTkuMiJOIDMxwrAzNSc0OC44IkU!5e0!3m2!1sen!2ske!4v1582319098458!5m2!1sen!2ske" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>						</div>
 						<!-- /map -->
 					</div>
 					<div class="col-lg-6">
