@@ -20,7 +20,23 @@
 		<div class="bg_color_1">
 			<div class="container margin_60_35">
 				<div class="row">
-					<div class="col-lg-12 ">
+					<div class="col-lg-4  wow animated" data-wow-offset="150">
+						<figure class="block-reveal">
+							<div class="block-horizzontal"></div>
+							<img src="img\services\extras\repair.jpg" class="img-fluid" alt="">
+						</figure>
+
+						<figure class="block-reveal">
+							<div class="block-horizzontal"></div>
+							<img src="img\services\extras\networks.jpg" class="img-fluid my-4" alt="">
+						</figure>
+
+						<figure class="block-reveal">
+							<div class="block-horizzontal"></div>
+							<img src="img\services\extras\dev.jpg" class="img-fluid" alt="">
+						</figure>				
+					</div>
+					<div class="col-lg-8 ">
 						<section id="description">
 							<!-- /box_highlight -->
 							<h2>Computer Maintenance Services</h2>

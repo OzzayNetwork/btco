@@ -20,7 +20,20 @@
 		<div class="bg_color_1">
 			<div class="container margin_60_35">
 				<div class="row">
-					<div class="col-lg-12 ">
+				<div class="col-lg-4 wow animated" data-wow-offset="150">
+						<figure class="block-reveal">
+							<div class="block-horizzontal"></div>
+							<img src="img\services\extras\airport.jpg" class="img-fluid" alt="">
+						</figure>
+
+						<figure class="block-reveal">
+							<div class="block-horizzontal"></div>
+							<img src="img\services\extras\hotel.jpg" class="img-fluid my-4" alt="">
+						</figure>
+					
+					
+					</div>
+					<div class="col-lg-8 ">
 						<section id="description">
 							<!-- /box_highlight -->
 							<h2>Description</h2>
