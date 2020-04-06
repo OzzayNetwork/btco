@@ -15,8 +15,15 @@
 	$(window).on('scroll', function () {
 		if ($(this).scrollTop() > 1) {
 			$('.header').addClass("sticky");
+			$('.logo-original').addClass('d-none');
+			$('.logo-white').removeClass('d-none');
+
+
 		} else {
 			$('.header').removeClass("sticky");
+			$('.logo-original').removeClass('d-none');
+			$('.logo-white').addClass('d-none');
+
 		}
 	});
 	

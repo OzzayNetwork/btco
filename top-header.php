@@ -33,7 +33,9 @@
 	<header class="header menu_2">
 		<div id="preloader"><div data-loader="circle-side"></div></div><!-- /Preload -->
 		<div id="logo">
-			<a href="index.php"><img src="img/logo.png" width="149" height="42" data-retina="true" alt=""></a>
+			<a href="index.php"><img src="img/bravo_logo.png" class="logo-original" width="auto" height="300px" data-retina="true" alt=""></a>
+			<a href="index.php"><img src="img/logo-white.png" class="logo-white d-none" height="42px" data-retina="true" alt=""></a>
+
 		</div>
 		<ul id="top_menu" class="d-none">
 			<li><a href="login.html" class="login">Login</a></li>

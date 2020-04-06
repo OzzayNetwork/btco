@@ -3,12 +3,19 @@
 <footer>
 		<div class="container margin_120_95">
 			<div class="row">
-				<div class="col-lg-5 col-md-12 p-r-5">
-					<p><img src="img/logo.png" width="149" height="42" data-retina="true" alt=""></p>
-					<p>BraVo is a national technology based and investment company in the heart of the nation’s capital JUBA – Republic of South Sudan; the company is aiming at restoring, uplifting and maintaining the reputation & trust of our young national talented professionals.</p>
+				<div class="col-lg-6 col-md-12 p-r-5">
+					<!-- <p><img src="img/bravo_logo.png" width="149" height="auto" data-retina="true" alt=""></p> -->
+					<div class="d-flex footer-logo">
+					<img src="img/bravo_logo.png" width="auto" height="155px" class="mr-2" data-retina="true" alt=""
+					><div>
+					<p>BraVo is a national technology based and investment company in the heart of the nation’s capital JUBA – Republic of South Sudan; the company is aiming at restoring, uplifting and maintaining the reputation & trust of our young national talented professionals.
+					</p>
 					<ul class="contacts">
 						<li><i class="ti-location-pin mr-2"></i>Buluk, Adjacent to the Embassy of The Republic of Sudan.</li>
 					</ul>
+					</div>
+					</div>
+					
 					<div class="follow_us">
 						<ul>
 							<li>Follow us</li>
