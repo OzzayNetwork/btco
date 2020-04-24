@@ -59,9 +59,9 @@
 				<li><span><a href="#0">Services</a></span>
 					<ul>
 						<li><a href="service-tech.php">Bravo Tech</a></li>
+						<li><a href="coming-soon.php">Bravo solutions</a></li>
 						<li><a href="coming-soon.php">Bravo Designs</a></li>
-						<li><a href="services-travel.php">Bravo Travels</a></li>
-						<li><a href="coming-soon.php">Generall Supply</a></li>
+						<li><a href="coming-soon.php">Bravo supplies</a></li>
 					</ul>
 				</li>
 				<li><span><a href="portfolio.php">portfolio</a></span>

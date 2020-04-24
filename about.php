@@ -73,7 +73,7 @@
 						<p>ICT plays an integral role in every aspects of our lives, and especially at the industry levels; helping companies, institution/organizations, governments and private businesses improve their performances to achieve cost efficiency that drive growth and maintain a high competitive advantage in the working environment.</p>
 						<p>BraVo is a national technology based and investment wise company in the heart of the nation’s capital JUBA – Republic of South Sudan; the company is aiming at restoring, uplifting and maintaining the reputation & trust of our young national talented professionals; and thus the theme of the company “Creativity & Trust…Redefined”.</p>
 						<p>BraVo houses a team of young national professionals with an international handful of experiences in the ICT industry and business.</p>
-						<p><em>CEO Marc Schumaker</em></p>
+						
 					</div>
 				</div>
 				<!--/row-->

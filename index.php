@@ -28,26 +28,48 @@
 			</div>
 				
 				<ul class="text-capitalize d-flex flex-wrap justify-content-center my-5">
-					<li class="mb-4"><i class="pe-7s-display1"></i>
-						<h4>Computer maintanace</h4><span>repair and maintanance of computers</span>
+					<li class="mb-4">
+						<a href="">
+							<i class="pe-7s-display1"></i>
+							<h4>Computer maintenance</h4><span>repair and maintenance of computers</span>
+						</a>
 					</li>
-					<li class="mb-4"><i class="pe-7s-global"></i>
-						<h4>web design & development</h4><span>lets help you develope and design your website</span>
+					<li class="mb-4">
+						<a href="">
+							<i class="pe-7s-global"></i>
+							<h4>web design & development</h4><span>lets help you develope and design your website</span>
+						</a>
 					</li>
-					<li class="mb-4"><i class="pe-7s-plane"></i>
-						<h4>bravo travels</h4><span>we will help you get to your dream destination</span>
+					<li class="mb-4">
+						<a href="services-travel.php">
+							<i class="pe-7s-plane"></i>
+							<h4>bravo travels</h4><span>we will help you get to your dream destination</span>
+						</a>
 					</li>
-					<li class="mb-3"><i class="pe-7s-network"></i>
-						<h4>Focus on target</h4><span>get your connections right through us</span>
+					<li class="mb-3">
+						<a href="">
+							<i class="ti-bolt"></i>
+							<h4>Security Systems</h4><span>get your connections right through us</span>
+						</a>
 					</li>
-					<li class="mb-3"><i class="pe-7s-diamond"></i>
-						<h4>graphic design</h4><span>our designs, are even closer to perfection</span>
+					<li class="mb-3">
+						<a href="">
+							<i class="ti-support"></i>
+							<h4>IT consulting</h4><span>get help on call</span>
+						</a>
 					</li>
-					<li class="mb-3"><i class="pe-7s-rocket"></i>
-						<h4>general supplies</h4><span>lets get staff delivered to you rocket fast</span>
+					<li class="mb-3">
+						<a href="">
+							<i class="pe-7s-diamond"></i>
+							<h4>graphic design</h4><span>our designs, are even closer to perfection</span>
+						</a>
 					</li>
-					<li class="mt-3"><i class="pe-7s-tools"></i>
-						<h4>software development</h4><span>inhouse software development just for you </span>
+					
+					<li class="mt-3">
+						<a href="">
+							<i class="pe-7s-tools"></i>
+							<h4>software Engineering</h4><span>in-house software development just for you </span>
+						</a>
 					</li>
 				</ul>
 			</div>
