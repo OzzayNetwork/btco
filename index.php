@@ -132,8 +132,8 @@
 				<div class="item">
 					<div class="box_grid">
 						<figure>
-							<a href="course-detail.html">
-								<div class="preview"><span>Client's Name</span></div><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_1.jpg" class="img-fluid" alt=""></a>
+							<a href="#">
+								<div class="preview"><span>Kenya Airways</span></div><img src="img\services\airlines\kq.png" class="img-fluid" alt=""></a>
 						</figure>
 					</div>
 				</div>
@@ -141,8 +141,8 @@
 				<div class="item">
 					<div class="box_grid">
 						<figure>
-							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_2.jpg" class="img-fluid" alt=""></a>
-							<div class="preview"><span>Client's Name</span></div>
+							<a href="#"><img src="img\services\airlines\egyptair.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>EgyptAir</span></div>
 						</figure>
 					</div>
 				</div>
@@ -150,8 +150,8 @@
 				<div class="item">
 					<div class="box_grid">
 						<figure>
-							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_3.jpg" class="img-fluid" alt=""></a>
-							<div class="preview"><span>Client's Name</span></div>
+							<a href="#"><img src="img\services\airlines\ethiopian.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Ethiopian Airlines</span></div>
 						</figure>
 					</div>
 				</div>
@@ -159,8 +159,8 @@
 				<div class="item">
 					<div class="box_grid">
 						<figure>
-							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_4.jpg" class="img-fluid" alt=""></a>
-							<div class="preview"><span>Client's Name</span></div>
+							<a href="#"><img src="img\services\airlines\rwandair.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>RwandaAir</span></div>
 						</figure>
 					</div>
 				</div>
@@ -168,21 +168,12 @@
 				<div class="item">
 					<div class="box_grid">
 						<figure>
-							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_5.jpg" class="img-fluid" alt=""></a>
-							<div class="preview"><span>Client's Name</span></div>
+							<a href="#"><img src="img\services\airlines\emirates.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Fly Emirates</span></div>
 						</figure>
 					</div>
 				</div>
-				<!-- /item -->
-				<div class="item">
-					<div class="box_grid">
-						<figure>
-							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_6.jpg" class="img-fluid" alt=""></a>
-							<div class="preview"><span>Client's Name</span></div>
-						</figure>
-					</div>
-				</div>
-				<!-- /item -->
+				
 			</div>
 			
 			<hr>

@@ -65,6 +65,61 @@
 				<!-- /row -->
 			</div>
 			<!-- /container -->
+			<!-- /features -->
+
+		<div class="container-fluid ">
+			
+			<div id="reccomended" class="owl-carousel owl-theme">
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="#">
+								<div class="preview"><span>Kenya Airways</span></div><img src="img\services\airlines\kq.png" class="img-fluid" alt=""></a>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="#"><img src="img\services\airlines\egyptair.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>EgyptAir</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="#"><img src="img\services\airlines\ethiopian.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Ethiopian Airlines</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="#"><img src="img\services\airlines\rwandair.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>RwandaAir</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="#"><img src="img\services\airlines\emirates.png" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Fly Emirates</span></div>
+						</figure>
+					</div>
+				</div>
+				
+			</div>
+			
+			<hr>
+		</div>
+		<!-- /container -->
 		</div>
 		<!-- /bg_color_1 -->
 	</main>
