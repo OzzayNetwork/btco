@@ -303,7 +303,7 @@ a {
   outline: none;
 }
 a:hover, a:focus {
-  color: #111;
+  color: #91c4f7;
   text-decoration: none;
   outline: none;
 }
@@ -642,8 +642,24 @@ ul#top_menu li a.btn_1:hover {
   background-size: cover;
 }
 
+#hero_in.solutions:before{
+  background: url("../../img/services/web.jpg")center center no-repeat !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#hero_in.supply{
+  background: url("../../img/services/supply.jpg")center center no-repeat !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #hero_in.travel:before {
-  background: url("../../img/services/travel.jpg") center center no-repeat;
+  background: url("../../img/services/travel.jpg") center center no-repeat !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

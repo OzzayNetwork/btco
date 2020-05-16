@@ -29,13 +29,13 @@
 				
 				<ul class="text-capitalize d-flex flex-wrap justify-content-center my-5">
 					<li class="mb-4">
-						<a href="">
+						<a href="service-tech.php">
 							<i class="pe-7s-display1"></i>
 							<h4>Computer maintenance</h4><span>repair and maintenance of computers</span>
 						</a>
 					</li>
 					<li class="mb-4">
-						<a href="">
+						<a href="service-solutions.php">
 							<i class="pe-7s-global"></i>
 							<h4>web design & development</h4><span>lets help you develope and design your website</span>
 						</a>
@@ -47,7 +47,7 @@
 						</a>
 					</li>
 					<li class="mb-3">
-						<a href="">
+						<a href="service-solutions.php">
 							<i class="ti-bolt"></i>
 							<h4>Security Systems</h4><span>get your connections right through us</span>
 						</a>
@@ -120,6 +120,75 @@
 			</div>
 		</div>
 		<!--/call_section-->
+		<!-- /features -->
+
+		<div class="container-fluid margin_120_0">
+			<div class="main_title_2">
+				<span><em></em></span>
+				<h2>Our clients</h2>
+				<p>Bellow are some of our clients</p>
+			</div>
+			<div id="reccomended" class="owl-carousel owl-theme">
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="course-detail.html">
+								<div class="preview"><span>Client's Name</span></div><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_1.jpg" class="img-fluid" alt=""></a>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_2.jpg" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Client's Name</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_3.jpg" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Client's Name</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_4.jpg" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Client's Name</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_5.jpg" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Client's Name</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+				<div class="item">
+					<div class="box_grid">
+						<figure>
+							<a href="course-detail.html"><img src="http://via.placeholder.com/800x533/ccc/fff/course__list_6.jpg" class="img-fluid" alt=""></a>
+							<div class="preview"><span>Client's Name</span></div>
+						</figure>
+					</div>
+				</div>
+				<!-- /item -->
+			</div>
+			
+			<hr>
+		</div>
+		<!-- /container -->
+
 	</main>
 	<!-- main     -->
     <?php include("footer.php");?>
