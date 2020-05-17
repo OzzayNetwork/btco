@@ -42,8 +42,8 @@
 					<div class="col-lg-5">
 <!--						<div class="map_contact">-->
 						<div class="">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.533905926379!2d31.594685314762895!3d4.84977899647842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNMKwNTAnNTkuMiJOIDMxwrAzNSc0OC44IkU!5e0!3m2!1sen!2ske!4v1582319098458!5m2!1sen!2ske" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>						</div>
-						<!-- /map -->
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.540701338978!2d31.594930214365483!3d4.848624596479253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNMKwNTAnNTUuMSJOIDMxwrAzNSc0OS42IkU!5e0!3m2!1sen!2ske!4v1589737141788!5m2!1sen!2ske" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+						</div>						<!-- /map -->
 					</div>
 					<div class="col-lg-6">
 						<h4>Send a message</h4>
